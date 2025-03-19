@@ -45,7 +45,7 @@ I'm a passionate Software Engineer with over 4 years of experience in building s
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD43B?style=for-the-badge&logo=huggingface&logoColor=black)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-000000?style=for-the-badge&logo=chromadb&logoColor=white)
 
-## 🚀 Projects
+## 🚀 Recent Projects
 
 ### [BD Constitutions Law AI](https://bd-constitution-law-ai.netlify.app)
 - A Retrieval-Augmented Generation (RAG) based AI application for querying Bangladesh’s constitution and legal texts.

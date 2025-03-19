@@ -4,7 +4,7 @@
 </a>
 
 ## About Me
-
+<img src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" align="right" width="250">
 I'm a passionate Software Engineer with over 4 years of experience in building scalable applications, optimizing performance, and creating reusable component libraries. I specialize in modern web technologies, micro-frontends, and AI-driven solutions like Retrieval-Augmented Generation (RAG). I thrive on solving complex problems with clean, maintainable code.
 
 - 🔭 I’m currently working on **Government Employee Management System (GEMS)** at the Ministry of Public Administration, Bangladesh.
@@ -14,6 +14,8 @@ I'm a passionate Software Engineer with over 4 years of experience in building s
 - ⚡ Fun fact: I love exploring new technologies and contributing to the developer community. When I'm not coding, you'll find me **traveling** to new places, soaking in different cultures, and capturing moments through my lens.
 
 ## 🛠️ Tech Stack
+
+<img src="https://analyticsindiamag.com/wp-content/uploads/2018/12/developer-dribbble.gif" align="right" width="300">
 
 ### Frontend
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)

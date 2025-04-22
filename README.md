@@ -18,7 +18,7 @@ I'm a passionate Software Engineer with over 4 years of experience in building s
 <img src="https://analyticsindiamag.com/wp-content/uploads/2018/12/developer-dribbble.gif" align="right" width="300">
 
 ### Frontend
-![TypeScript](https://img.shields.io/badge/TypeScript-20232A?style=for-the-badge&logo=typescript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-2496ED?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Micro-Front](https://img.shields.io/badge/Micro--Front-8A2BE2?style=for-the-badge&logo=icinga&logoColor=white)

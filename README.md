@@ -48,22 +48,22 @@ I'm a passionate Software Engineer with over 4 years of experience in building s
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD43B?style=for-the-badge&logo=huggingface&logoColor=black)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-000000?style=for-the-badge&logo=chromadb&logoColor=white)
 
----
 
 ## 🚀 Recent Projects
 
 ### [English Tutor AI](https://english-tutor-ai.vercel.app)
+<img src="/images/et.png" align="right" width="250">
 - 🎙️ **AI-powered English speaking partner** that listens to user speech, provides real-time grammar correction, and gives improvement suggestions.
 - 🌍 Includes free **practice mode**, **real-world conversation simulations**, and **session evaluation** for fluency tracking.
 - 🧠 Utilizes OpenRouter **LLM API** for intelligent response generation and feedback.
 - 📱 Built as a **Progressive Web App (PWA)** with modern React stack for an Installable on mobile and desktop, And App-like experience in browser.
 
 ### [BD Constitutions Law Chatbot](https://bd-constitution-law-ai.netlify.app)
-- A Retrieval-Augmented Generation (RAG) based AI application for querying Bangladesh’s constitution and legal texts.
+<img src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" align="right" width="250">
+- A **Retrieval-Augmented Generation (RAG)** based AI application for querying Bangladesh’s constitution and legal texts.
 - Built with **ChromaDB**, **LangChain**, **OpenRouter API**, and **HuggingFace Space**.
 - Features dynamic response generation and contextual understanding using **Agentic RAG**.
 
----
 
 ## 📜 Certifications
 

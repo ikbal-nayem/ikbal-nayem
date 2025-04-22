@@ -18,11 +18,11 @@ I'm a passionate Software Engineer with over 4 years of experience in building s
 <img src="https://analyticsindiamag.com/wp-content/uploads/2018/12/developer-dribbble.gif" align="right" width="300">
 
 ### Frontend
-![TypeScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=typescript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-20232A?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Micro-Front](https://img.shields.io/badge/Micro--Front-8A2BE2?style=for-the-badge&logo=icinga&logoColor=white)
-![PWA Ready](https://img.shields.io/badge/PWA-ready-brightgreen?style=flat-square)
+![PWA Ready](https://img.shields.io/badge/PWA-brightgreen?style=for-the-badge&logo=pwa)
 ![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=websocket&logoColor=white)
 ![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=for-the-badge&logo=reactivex&logoColor=white)
 
@@ -48,12 +48,22 @@ I'm a passionate Software Engineer with over 4 years of experience in building s
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD43B?style=for-the-badge&logo=huggingface&logoColor=black)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-000000?style=for-the-badge&logo=chromadb&logoColor=white)
 
+---
+
 ## 🚀 Recent Projects
 
-### [BD Constitutions Law AI](https://bd-constitution-law-ai.netlify.app)
+### [English Tutor AI](https://english-tutor-ai.vercel.app)
+- 🎙️ **AI-powered English speaking partner** that listens to user speech, provides real-time grammar correction, and gives improvement suggestions.
+- 🌍 Includes free **practice mode**, **real-world conversation simulations**, and **session evaluation** for fluency tracking.
+- 🧠 Utilizes OpenRouter **LLM API** for intelligent response generation and feedback.
+- 📱 Built as a **Progressive Web App (PWA)** with modern React stack for an Installable on mobile and desktop, And App-like experience in browser.
+
+### [BD Constitutions Law Chatbot](https://bd-constitution-law-ai.netlify.app)
 - A Retrieval-Augmented Generation (RAG) based AI application for querying Bangladesh’s constitution and legal texts.
 - Built with **ChromaDB**, **LangChain**, **OpenRouter API**, and **HuggingFace Space**.
 - Features dynamic response generation and contextual understanding using **Agentic RAG**.
+
+---
 
 ## 📜 Certifications
 

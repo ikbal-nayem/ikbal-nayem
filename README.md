@@ -18,10 +18,11 @@ I'm a passionate Software Engineer with over 4 years of experience in building s
 <img src="https://analyticsindiamag.com/wp-content/uploads/2018/12/developer-dribbble.gif" align="right" width="300">
 
 ### Frontend
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=typescript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Micro-Front](https://img.shields.io/badge/Micro--Front-8A2BE2?style=for-the-badge&logo=icinga&logoColor=white)
+![PWA Ready](https://img.shields.io/badge/PWA-ready-brightgreen?style=flat-square)
 ![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=websocket&logoColor=white)
 ![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=for-the-badge&logo=reactivex&logoColor=white)
 
@@ -51,7 +52,7 @@ I'm a passionate Software Engineer with over 4 years of experience in building s
 
 ### [BD Constitutions Law AI](https://bd-constitution-law-ai.netlify.app)
 - A Retrieval-Augmented Generation (RAG) based AI application for querying Bangladesh’s constitution and legal texts.
-- Built with **ChromaDB**, **LangChain**, **HuggingFace API**, and **Python**.
+- Built with **ChromaDB**, **LangChain**, **OpenRouter API**, and **HuggingFace Space**.
 - Features dynamic response generation and contextual understanding using **Agentic RAG**.
 
 ## 📜 Certifications

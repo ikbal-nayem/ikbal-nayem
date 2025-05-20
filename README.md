@@ -59,7 +59,7 @@ I'm a passionate Software Engineer with over 4 years of experience in building s
 - 🧠 Utilizes OpenRouter **LLM API** for intelligent response generation and feedback.
 - 📱 Built as a **Progressive Web App (PWA)** with modern React stack for an Installable on mobile and desktop, And App-like experience in browser.
 
-### [BD Constitutions Law Chatbot](https://bd-constitution-law-ai.netlify.app)
+### [BD Laws Agent](https://bd-constitution-law-ai.netlify.app)
 <img src="/images/bdc.png" align="right" width="220">
 
 - A **Retrieval-Augmented Generation (RAG)** based AI application for querying Bangladesh’s constitution and legal texts.

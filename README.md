@@ -7,10 +7,9 @@
 <img src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" align="right" width="250">
 I'm a passionate Software Engineer with over 5 years of experience in building scalable applications, optimizing performance, and creating reusable component libraries. I specialize in modern web technologies, micro-frontends, and AI-driven solutions like Retrieval-Augmented Generation (RAG). I thrive on solving complex problems with clean, maintainable code.
 
-- 🔭 I’m currently working on **Government Employee Management System (GEMS)** at the Ministry of Public Administration, Bangladesh.
 - 🌱 I’m currently learning **Large Language Models (LLMs)** and **Generative AI**.
 - 👯 I’m looking to collaborate on **AI-driven web applications** and **open-source projects**.
-- 💬 Ask me about **React, Node.js, Micro-frontends, Python and AI integrations**.
+- 💬 Ask me about **React, Node.js, Microfront, Python, Java and AI integrations**.
 - ⚡ Fun fact: I love exploring new technologies and contributing to the developer community. When I'm not coding, you'll find me **traveling** to new places, soaking in different cultures, and capturing moments through my lens.
 
 ## 🛠️ Tech Stack

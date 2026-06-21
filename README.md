@@ -5,7 +5,7 @@
 
 ## About Me
 <img src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" align="right" width="250">
-I'm a passionate Software Engineer with over 4 years of experience in building scalable applications, optimizing performance, and creating reusable component libraries. I specialize in modern web technologies, micro-frontends, and AI-driven solutions like Retrieval-Augmented Generation (RAG). I thrive on solving complex problems with clean, maintainable code.
+I'm a passionate Software Engineer with over 5 years of experience in building scalable applications, optimizing performance, and creating reusable component libraries. I specialize in modern web technologies, micro-frontends, and AI-driven solutions like Retrieval-Augmented Generation (RAG). I thrive on solving complex problems with clean, maintainable code.
 
 - 🔭 I’m currently working on **Government Employee Management System (GEMS)** at the Ministry of Public Administration, Bangladesh.
 - 🌱 I’m currently learning **Large Language Models (LLMs)** and **Generative AI**.

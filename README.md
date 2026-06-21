@@ -9,7 +9,7 @@ I'm a passionate Software Engineer with over 5 years of experience in building s
 
 - 🌱 I’m currently learning **Large Language Models (LLMs)** and **Generative AI**.
 - 👯 I’m looking to collaborate on **AI-driven web applications** and **open-source projects**.
-- 💬 Ask me about **React, Node.js, Microfront, Python, Java and AI integrations**.
+- 💬 Ask me about **React, Node.js, Microfront, Python, Java, Spring Boot and AI integrations**.
 - ⚡ Fun fact: I love exploring new technologies and contributing to the developer community. When I'm not coding, you'll find me **traveling** to new places, soaking in different cultures, and capturing moments through my lens.
 
 ## 🛠️ Tech Stack
